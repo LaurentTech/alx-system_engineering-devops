@@ -1,2 +1,2 @@
-#!/bib/bash
+#!/bin/bash
 cut -c1 | paste -s -d ''
